@@ -7,7 +7,6 @@ This repository contains Python implementations and Jupyter Notebooks from the *
 - [Highlighted Projects](#highlighted-projects)
   - [Face Mask Detection](#face-mask-detection)
   - [Emotion Detection](#emotion-detection)
-- [Other Course Topics Covered](#other-course-topics-covered)
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
 - [Contact](#contact)
@@ -35,28 +34,11 @@ For more details on the course, refer to the [AIUB Undergraduate Course Catalog]
 
 - **Description:** This project detects emotions (such as happiness, sadness, anger, surprise, etc.) from facial expressions using a deep learning model. The model is trained on a dataset of labeled facial expressions to classify the emotion displayed by a person in an image.
 - **Key Concepts:**
-  - Image preprocessing (grayscale conversion, resizing).
+  - Image preprocessing (data augmentation, resizing).
+  - Transfer learning (Pre trained model: MobileNet).
   - CNN architecture for emotion classification.
   - Visualization of results using Matplotlib.
 - **Technologies Used:** TensorFlow/Keras, OpenCV, Python.
-
-## Other Course Topics Covered
-
-1. **Image Processing**  
-   - Techniques such as image filtering, resizing, and grayscale conversion.
-   - **Key Concepts:** Gaussian blurring, edge detection using Sobel and Canny filters.
-
-2. **Feature Detection and Extraction**  
-   - Detecting key points and extracting meaningful features from images.
-   - **Key Concepts:** Harris Corner Detector, SIFT (Scale-Invariant Feature Transform).
-
-3. **Object Detection**  
-   - Identifying and localizing objects within images or video frames.
-   - **Key Concepts:** Sliding windows, template matching.
-
-4. **Pattern Recognition**  
-   - Techniques for recognizing patterns in image data.
-   - **Key Concepts:** Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA).
 
 ## Technologies Used
 
