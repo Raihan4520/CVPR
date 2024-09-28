@@ -47,7 +47,7 @@ For more details on the course, refer to the [AIUB Undergraduate Course Catalog]
   - **OpenCV:** For image processing and real-time detection.
   - **TensorFlow/Keras:** For building deep learning models.
   - **NumPy and Pandas:** For data manipulation and processing.
-  - **Matplotlib and Seaborn:** For visualizing data and model performance.
+  - **Matplotlib:** For visualizing data and model performance.
   - **Jupyter Notebook:** For running and documenting code interactively.
 
 ## How to Run
