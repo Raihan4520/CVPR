@@ -16,6 +16,10 @@ This repository contains Python implementations and Jupyter Notebooks from the *
 
 This repository focuses on practical implementations of computer vision algorithms using **Python** and **Jupyter Notebooks**. It includes multiple projects, with a particular emphasis on real-world applications such as detecting face masks and recognizing emotions from facial expressions. The repository also includes foundational exercises in image processing, feature extraction, and object detection, which are key components of computer vision systems.
 
+### Course Information
+For more details on the course, refer to the [AIUB Undergraduate Course Catalog](https://www.aiub.edu/faculties/fst/ug-course-catalog).  
+*Note: Search for "Computer Vision & Pattern Recognition" for specific course information.*
+
 ## Highlighted Projects
 
 ### Face Mask Detection
