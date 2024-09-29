@@ -75,7 +75,7 @@ To run the code in this repository, follow these steps:
 To run the Face Mask Detection project:
 
 1. Open Face_Mask_Detection.ipynb in Jupyter Notebook.
-2. Ensure that the dataset is available in the specified folder or update the file paths in the notebook.
+2. Ensure that the dataset is extracted and available in the specified folder or update the file paths in the notebook.
 3. Run all cells to train the model or use a pre-trained model to detect face masks in real-time.
 
 ## Contact
