@@ -1,6 +1,6 @@
 # Computer Vision and Pattern Recognition (CVPR) Course
 
-This repository contains Jupyter Notebook projects coded in Python from the **Computer Vision and Pattern Recognition (CVPR)** course at American International University - Bangladesh (AIUB). It includes various projects and exercises demonstrating key concepts in computer vision, such as image processing, feature detection, and machine learning for vision tasks.
+This repository contains Jupyter Notebook projects coded in Python from the **Computer Vision and Pattern Recognition (CVPR)** course at **American International University - Bangladesh (AIUB)**. It includes various projects and exercises demonstrating key concepts in computer vision, such as image processing, feature detection, and machine learning for vision tasks.
 
 ## Table of Contents
 - [Overview](#overview)
