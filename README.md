@@ -60,14 +60,17 @@ To run the code in this repository, follow these steps:
 - Install the required libraries by running the following command:
   ```bash
   pip install <library_name>
+  ```
 
 ### Running the Notebooks
 1. Clone the repository:
    ```bash
    git clone https://github.com/Raihan4520/CVPR.git
+   ```
 2. Open Jupyter Notebook:
    ```bash
    jupyter notebook
+   ```
 3. Navigate to the desired notebook (e.g., Face_Mask_Detection.ipynb or Emotion_Detection.ipynb) and run the cells interactively.
 4. Follow the instructions within each notebook to provide the required input (e.g., images or video feed) and view the results.
 
