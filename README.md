@@ -1,6 +1,6 @@
 # Computer Vision and Pattern Recognition (CVPR) Course
 
-This repository contains Jupyter Notebook projects coded in Python from the **Computer Vision and Pattern Recognition (CVPR)** course at **American International University - Bangladesh (AIUB)**. It includes various projects and exercises demonstrating key concepts in computer vision, such as image processing, feature detection, and machine learning for vision tasks.
+This repository contains Jupyter Notebook projects coded in Python during my **Computer Vision and Pattern Recognition (CVPR)** course attended at **American International University - Bangladesh (AIUB)**. It includes various projects and exercises demonstrating key concepts in computer vision, such as image processing, feature detection, and machine learning for vision tasks.
 
 ### Course Information
 For more details on the course, refer to the [AIUB Undergraduate Course Catalog](https://www.aiub.edu/faculties/fst/ug-course-catalog).  
@@ -17,7 +17,7 @@ For more details on the course, refer to the [AIUB Undergraduate Course Catalog]
 
 ## Overview
 
-This repository focuses on practical implementations of computer vision algorithms using **Python** in **Jupyter Notebooks**. It includes multiple projects, with a particular emphasis on real-world applications such as detecting face masks and recognizing emotions from facial expressions. The repository also includes foundational exercises in image processing, feature extraction, and object detection, which are key components of computer vision systems.
+This repository focuses on practical implementations of computer vision algorithms using **Python** in **Jupyter Notebooks**. It includes multiple projects, with a particular emphasis on real-world applications on my final term projects such as detecting face masks and recognizing emotions from facial expressions. The repository also includes foundational exercises in image processing, feature extraction, and object detection, which are key components of computer vision systems.
 
 ## Highlighted Projects
 
